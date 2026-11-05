@@ -1,0 +1,6 @@
+{
+  "name": "RoamRate",
+  "description": "Ergonomic, traveler-ready currency converter with one-handed math keypad, offline exchange rates, fee calculator, and multi-currency glanceability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
